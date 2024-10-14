@@ -19,9 +19,10 @@ The following actors and use cases have been identified for the Ozarks Day Hiker
 | Hiker | A *Hiker* is a person who uses the app to explore day hikes in the Ozarks or who uses the app to actually take a day hike. |
 | Hiker Admin | A *Hike Admin* is a person who can add new hikes to the list of featured day hikes. They can also modify an existing hike. Note that a Hike Admin can use the app as a Hiker would and is thus a Hiker. A Hiker, however, is not a Hike Admin |
 
+#### Use Cases
 ![image](https://raw.githubusercontent.com/wildharpo/ozarks-day-hiker-app/refs/heads/main/Documents/Diagrams/UseCaseDiagram.jpg)
 
-This diagram represents the following use cases:
+This diagram represents the following user stories:
 
 * Browse Hikes - A *Hiker* looks at a list of hikes, which contains the name of the hike, the length of the hike, and a short description of the hike.
 * Read About a Hike - A *Hiker* reads a detailed description of a hike they have selected.
