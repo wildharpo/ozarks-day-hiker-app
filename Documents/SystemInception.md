@@ -5,6 +5,7 @@
   * [Functional Requirements](#functional-requirements)
   * [Nonfunctional Requirements](#nonfunctional-requirements)
   * [Security Requirements](#security-requirements)
+* Technology Plan
 
 ## Requirements
 
@@ -53,3 +54,33 @@ The following security requirements will be satisfied.
 
 * Data exchanged between the Hike Admin and the ODHkr system will be encrypted. This applies to all use cases associated with the *Hike Admin* role.
 * Scripts will not be allowed in user input. This applies to the following use case - Leave a Comment on a Hike.
+
+<div name="technology-plan">
+  <h2>Technology Plan</h2>
+</div>
+The following technology plan lists potential technologies to be used in the creation of our application and a personal experience rating for each technology.
+
+| Technology | Experience Rating |
+|------------|-------------------|
+| Mobile App Technologies | |
+| iOS | None |
+| Android | Tutorial |
+| Cordova | Small Scale |
+| Windows 10 Phone | None |
+| Map Technologies | |
+| Google Maps | Tutorial |
+| Bing Maps | None |
+| Open Layers Maps | None |
+| Open Street Maps | None |
+| Application and Web Development | |
+| Java | Extensive |
+| Swift | None |
+| HTML 5 | Moderate |
+| Javascript | Moderate |
+| jQuery Mobile | Small Scale |
+| Bootstrap Framework | Tutorial |
+| Iconic Framework | None |
+| Web Server Scripting | |
+| PHP | Small Scale |
+| Microsoft ASP.NET | Extensive |
+
