@@ -12,3 +12,10 @@ This diagram represents the following use cases:
 * View Hike on Map - A *Hiker* views the route of the trail on a map. In addition to a route of the trail, points of interest are indicated on the map.
 * Find Driving Directions - A *Hiker* reads general directions to a trail head. It is also possible to get detailed directions to a trail head based upon the *Hiker's* current location.
 * Watch Trail Videos - A *Hiker* selects and views a video of the trail. Videos may describe a hike, part of a hike, POI along the trail, or other subjects related to the trail.
+* View Hike on Google Earth - A *Hiker* views the trail route and POIs on Google Earth.
+* Leave a Comment on a Hike - A *Hiker* leaves a comment about the trail, a POI, or an associated subject.
+* Read Hike Comments - A *Hiker* reads the comments on the hike posted by others.
+* Setup a Hike in GPS Trail Guide Mode - A *Hiker* downloads the information necessary to use the app without a data connection on their mobile device.
+* Use GPS Trail Guide Mode - A *Hiker* views the hike map, POIs, and their current position on a map without a data connection. A *Hiker's* current position is continuously updated on the map.
+* Create a Trail Entry - A *Hike Admin* creates the entry for a new trail to be included in the trails featured on the app.
+* Edit a Trail Entry - A *Hike Admin* makes corrections to the text in a trail entry; adds or deletes additional pictures; adds or deletes POI; or adds or deletes videos.
