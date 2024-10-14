@@ -154,3 +154,13 @@ The following effort estimate has been calculated using NOP (nominal object poin
 | Standalone GPS Mode | 1 | 10 | Component to manage map and data in standalone GPS mode |
 | Server Components | 2 @ 10 | 20 | Server-side scripts for managing mobile interaction and hike data |
 | **Total Object Points** | | 76 | |
+
+
+<div name="architectural-design">
+ <h1>Architectural Design</h1>
+</div>
+The following deployment diagram represents the architectural (high-level) design of the ODHKr application.
+
+![image](https://raw.githubusercontent.com/wildharpo/ozarks-day-hiker-app/refs/heads/main/Documents/Diagrams/DeploymentDiagram.jpg)
+
+The basic architecture of the ODHKr app has four components: a component that runs on a mobile device, a map server, an administrative component, and a server component. Components will communicate over the Internet. The details of the architecture are specified in Figure 7.5. Notice that the administrative componet-server component communication is specified at two levels. The devices communicate using the Internet while the browser and the web server communicate using the http protocol.
