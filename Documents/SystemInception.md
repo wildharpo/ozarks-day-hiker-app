@@ -10,6 +10,7 @@
   * [Technical Risk by Business Goal](#technical-risk-by-business-goal)
   * [Risk Mitigation Plan](#risk-mitigation-plan)
 * [Effort Estimate](#effort-estimate)
+* [Architectural Design](#architectural-design)
 
 ## Requirements
 
@@ -157,7 +158,7 @@ The following effort estimate has been calculated using NOP (nominal object poin
 
 
 <div name="architectural-design">
- <h1>Architectural Design</h1>
+ <h2>Architectural Design</h2>
 </div>
 The following deployment diagram represents the architectural (high-level) design of the ODHKr application.
 
