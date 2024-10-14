@@ -8,7 +8,9 @@
 
 ## Requirements
 
-<div name="functional-requirements"></div>
+<div name="functional-requirements">
+ ### Functional Requirements
+</div>
 ### Functional Requirements
 The following actors and use cases have been identified for the Ozarks Day Hiker application.
 
