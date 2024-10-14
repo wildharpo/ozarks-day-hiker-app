@@ -9,7 +9,7 @@
 ## Requirements
 
 <div name="functional-requirements">
-  <h2>Functional Requirements</h2>
+  <h3>Functional Requirements</h3>
 </div>
 The following actors and use cases have been identified for the Ozarks Day Hiker application.
 
@@ -30,13 +30,15 @@ This diagram represents the following use cases:
 * Create a Trail Entry - A *Hike Admin* creates the entry for a new trail to be included in the trails featured on the app.
 * Edit a Trail Entry - A *Hike Admin* makes corrections to the text in a trail entry; adds or deletes additional pictures; adds or deletes POI; or adds or deletes videos.
 
-<div name="nonfunctional-requirements" />
-### Nonfunctional Requirements
+<div name="nonfunctional-requirements">
+  <h3>Nonfunctional Requirements</h3>
+</div>
 * Hikers will be able to easily interact with the ODHkr App on a variety of devices. This applies to all use cases associated with the *Hiker* actor.
 * The hike map will be readable and scrollable on common cell phone and tablet devices. This applies to the following use cases - View Hike on Map, Use GPS Trail Guide Mode.
 * The GPS location will be accurate to within 10 feet of the actual locations. This applies to the following use case - Use GPS Trail Guide Mode.
 
-<div name="security-requirements" />
-### Security Requirements
+<div name="security-requirements">
+  <h3>Security Requirements</h3>
+</div>
 * Data exchanged between the Hike Admin and the ODHkr system will be encrypted. This applies to all use cases associated with the *Hike Admin* role.
 * Scripts will not be allowed in user input. This applies to the following use case - Leave a Comment on a Hike.
