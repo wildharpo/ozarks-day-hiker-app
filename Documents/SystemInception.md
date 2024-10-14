@@ -1,5 +1,10 @@
 # System Inception
 
+## Table of Contents
+* Requirements
+..* Functional Requirements
+..* Nonfunctional Requirements
+
 ## Requirements
 
 ### Functional Requirements
