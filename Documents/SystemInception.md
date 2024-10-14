@@ -9,6 +9,7 @@
 * Risk Analysis
   * [Technical Risk by Business Goal](#technical-risk-by-business-goal)
   * [Risk Mitigation Plan](#risk-mitigation-plan)
+* [Effort Estimate](#effort-estimate)
 
 ## Requirements
 
@@ -120,6 +121,7 @@ The following risk mitigation plan will help us to address and mitigate these ri
 | Tech-R-5 | Time for the developer to work on the project is limited due to the demands of their class schedule | Explicitly use a calendar to plan daily schedules allocating spcific time periods to work on the project |
 | Tech-R-6 | Inadequate testing does not cover requirements | Utilize automated testing tools. Make testing a priority activity |
 | Tech-R-7 | The app is susceptible to cross-site scripting attacks | Follow the OWASP guidelines for preventing cross-scripting attacks and the OWASP testing protocol |
+
 
 
 <div name="effort-estimate">
