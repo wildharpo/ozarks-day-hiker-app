@@ -30,7 +30,7 @@ This diagram represents the following use cases:
 * Create a Trail Entry - A *Hike Admin* creates the entry for a new trail to be included in the trails featured on the app.
 * Edit a Trail Entry - A *Hike Admin* makes corrections to the text in a trail entry; adds or deletes additional pictures; adds or deletes POI; or adds or deletes videos.
 
-### [Nonfunctional Requirements]{#nonfunctional-requirements}
+### [Nonfunctional Requirements](){#nonfunctional-requirements}
 * Hikers will be able to easily interact with the ODHkr App on a variety of devices. This applies to all use cases associated with the *Hiker* actor.
 * The hike map will be readable and scrollable on common cell phone and tablet devices. This applies to the following use cases - View Hike on Map, Use GPS Trail Guide Mode.
 * The GPS location will be accurate to within 10 feet of the actual locations. This applies to the following use case - Use GPS Trail Guide Mode.
