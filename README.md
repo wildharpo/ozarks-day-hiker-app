@@ -1,0 +1,1 @@
+# ozarks-day-hiker-app
