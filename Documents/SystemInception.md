@@ -2,8 +2,8 @@
 
 ## Table of Contents
 * Requirements
-..* Functional Requirements
-..* Nonfunctional Requirements
+  * Functional Requirements
+  * Nonfunctional Requirements
 
 ## Requirements
 
