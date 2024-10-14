@@ -11,11 +11,11 @@
  project constraints, effort estimates, schedule estimates, and
  technology choices are detailed for each Sprint.
  ## Table of Contents
- * [System Inception](SystemInception.md)
- * [Updated System Inception](UpdatedSystemInception.md)
+ * [System Inception](Documents/SystemInception.md)
+ * [Updated System Inception](Documents/UpdatedSystemInception.md)
  * Sprint 1
- * [Sprint 1 Inception](Sprint1Inception.md)
- * [Sprint 1 Elaboration](Sprint1Elaboration.md)
- * [Sprint 1 Construction](Sprint1Construction.md)
+ * [Sprint 1 Inception](Documents/Sprints/Sprint1/Sprint1Inception.md)
+ * [Sprint 1 Elaboration](Documents/Sprints/Sprint1/Sprint1Elaboration.md)
+ * [Sprint 1 Construction](Documents/Sprints/Sprint1/Sprint1Construction.md)
  * Sprint 2
  * Sprint 3
