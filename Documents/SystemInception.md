@@ -7,8 +7,8 @@
   * [Security Requirements](#security-requirements)
 * [Technology Plan](#technology-plan)
 * Risk Analysis
-  * Technical Risk by Business Goal
-  * Risk Mitigation Plan
+  * [Technical Risk by Business Goal](#technical-risk-by-business-goal)
+  * [Risk Mitigation Plan](#risk-mitigation-plan)
 
 ## Requirements
 
